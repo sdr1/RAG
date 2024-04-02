@@ -1,3 +1,6 @@
+# How do I use it?
+Update the file paths, and get an API key from together.ai
+
 # Course RAG
 
 When I was teaching, one student called ChatGPT their north star.  This bugged me because ChatGPT sometimes gave them bad answers (something I, of course, would never do).  So I decided to create a tool that would allow students to look at the course materials first, then an LLM.
